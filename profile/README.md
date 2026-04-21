@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
+    <img alt="TDA Laboratory logo" src="logo-light.png" width="400">
+  </picture>
+</p>
+
 # Thoracic Imaging, Data Science, and Artificial Intelligence Laboratory (TDA)
 
 Computational lab applying AI and data science to cardiopulmonary imaging —
