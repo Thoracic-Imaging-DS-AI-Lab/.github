@@ -26,4 +26,5 @@ detection to guiding invasive procedures.
 
 ## Contact
 
-[Lab website] · [PI name & email]
+**PI:** Farbod Rahaghi, MD, PhD · FRahaghi@mednet.ucla.edu
+**Data Scientist:** Daniel Villarreal, PhD · DAVillarreal@mednet.ucla.edu
