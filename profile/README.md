@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark-v3.png">
-    <source media="(prefers-color-scheme: light)" srcset="logo-light-v3.png">
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark-v4.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-light-v4.png">
     <img alt="TDA Laboratory logo" src="logo-light.png" width="700">
   </picture>
 </p>
