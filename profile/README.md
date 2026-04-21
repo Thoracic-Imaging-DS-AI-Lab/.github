@@ -6,7 +6,11 @@
   </picture>
 </p>
 
-The Thoracic Imaging, Data Science, and Artificial Intelligence (TIDSA) Laboratory develops state-of-the-art machine learning and image analysis tools for cardiopulmonary and pulmonary disease. We work with large-scale patient imaging datasets to build predictive models that improve diagnostic accuracy and inform clinical decisions — from early disease detection to guiding invasive procedures.
+The Thoracic Imaging, Data Science, and Artificial Intelligence (TIDSA) Laboratory
+develops state-of-the-art machine learning and image analysis tools for
+cardiopulmonary and pulmonary disease. We work with large-scale patient
+imaging datasets to build predictive models that improve diagnostic accuracy and
+inform clinical decisions — from early disease detection to guiding invasive procedures.
 
 ---
 
