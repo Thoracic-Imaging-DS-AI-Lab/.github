@@ -6,8 +6,6 @@
   </picture>
 </p>
 
-# Thoracic Imaging, Data Science, and Artificial Intelligence Laboratory (TDA)
-
 Computational lab applying AI and data science to cardiopulmonary imaging —
 building large-scale predictive models for pulmonary disease diagnosis and
 clinical decision support.
